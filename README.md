@@ -1,1 +1,3 @@
 # rockpaperscissorsPHP
+
+RockPaperScissors in PHP
